@@ -83,29 +83,40 @@ This page focuses on:
 
 ## 🖼️ Dashboard Preview
 
-### 1. EV Market Overview
+### 🏠 1. EV Dashboard Home Page
 
-![EV Market Overview](YOUR-FIRST-SCREENSHOT-LINK)
+https://github.com/heyjanhavi66/EV-Car-Market-Analysis-Power-BI/blob/main/Screenshot%202026-08-30%20201611.png
 
-### 2. Vehicle Pricing & Segment Analysis
+---
 
-![Vehicle Pricing & Segment Analysis](YOUR-SECOND-SCREENSHOT-LINK)
+### 🌍 2. EV Market Overview
 
-### 3. Technical Performance Analysis
+https://github.com/heyjanhavi66/EV-Car-Market-Analysis-Power-BI/blob/main/Screenshot%202026-08-30%20201630.png
 
-![Technical Performance Analysis](YOUR-THIRD-SCREENSHOT-LINK)
+---
 
-### 4. Sales, Ratings & Market Trends
+### 💰 3. Vehicle Pricing & Segmentation Analysis
 
-![Sales, Ratings & Market Trends](YOUR-FOURTH-SCREENSHOT-LINK)
+https://github.com/heyjanhavi66/EV-Car-Market-Analysis-Power-BI/blob/main/Screenshot%202026-08-30%20201700.png
 
-### 5. EV Dashboard
+---
 
-![EV Dashboard](YOUR-FIFTH-SCREENSHOT-LINK)
+### ⚡ 4. Vehicle Performance Analysis
 
-## 📁 Project Files
+https://github.com/heyjanhavi66/EV-Car-Market-Analysis-Power-BI/blob/main/Screenshot%202026-08-30%20201725.png
 
-📊 Power BI Dashboard: `EV Project Powe BI link.pbit`
+---
+
+### 📈 5. Sales & Market Trends
+
+https://github.com/heyjanhavi66/EV-Car-Market-Analysis-Power-BI/blob/main/Screenshot%202026-08-30%20201744.png
+
+---
+
+### 🔍 6. EV Model Detailed Analysis
+
+https://github.com/heyjanhavi66/EV-Car-Market-Analysis-Power-BI/blob/main/Screenshot%202026-09-02%20201034.png
+
 
 ---
 
