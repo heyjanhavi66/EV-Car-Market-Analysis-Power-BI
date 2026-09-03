@@ -81,6 +81,28 @@ This page focuses on:
 
 ---
 
+## 🖼️ Dashboard Preview
+
+### 1. EV Market Overview
+
+![EV Market Overview](YOUR-FIRST-SCREENSHOT-LINK)
+
+### 2. Vehicle Pricing & Segment Analysis
+
+![Vehicle Pricing & Segment Analysis](YOUR-SECOND-SCREENSHOT-LINK)
+
+### 3. Technical Performance Analysis
+
+![Technical Performance Analysis](YOUR-THIRD-SCREENSHOT-LINK)
+
+### 4. Sales, Ratings & Market Trends
+
+![Sales, Ratings & Market Trends](YOUR-FOURTH-SCREENSHOT-LINK)
+
+### 5. EV Dashboard
+
+![EV Dashboard](YOUR-FIFTH-SCREENSHOT-LINK)
+
 ## 📁 Project Files
 
 📊 Power BI Dashboard: `EV Project Powe BI link.pbit`
